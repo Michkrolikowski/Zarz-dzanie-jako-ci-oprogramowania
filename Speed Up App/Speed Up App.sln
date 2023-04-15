@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed Up App", "Speed Up App\Speed Up App.csproj", "{0CD26D16-B4D7-4C67-AC98-1D6CC46EA5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD26D16-B4D7-4C67-AC98-1D6CC46EA5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD26D16-B4D7-4C67-AC98-1D6CC46EA5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD26D16-B4D7-4C67-AC98-1D6CC46EA5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD26D16-B4D7-4C67-AC98-1D6CC46EA5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56090236-98E8-4A38-A9ED-2D81BE480822}
+	EndGlobalSection
+EndGlobal

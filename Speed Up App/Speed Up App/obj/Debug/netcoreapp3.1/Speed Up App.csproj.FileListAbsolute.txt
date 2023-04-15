@@ -1,0 +1,73 @@
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csprojAssemblyReference.cache
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Cennik.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Form1.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.menu - kopiować.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.menu.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Pomoc.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Properties.Resources.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Raporty.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Rezerwacja.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Zwrot.resources
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.GenerateResource.cache
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfoInputs.cache
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfo.cs
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.CoreCompileInputs.cache
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.exe
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.deps.json
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.json
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.dev.json
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.dll
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.pdb
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.dll
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.pdb
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.genruntimeconfig.cache
+C:\Users\adamp\source\repos\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Flota.resources
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.exe
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.deps.json
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.json
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.dev.json
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.dll
+D:\Junior\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.pdb
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csprojAssemblyReference.cache
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Cennik.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Flota.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Form1.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.menu - kopiować.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Menu.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Pomoc.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Properties.Resources.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Raporty.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Rezerwacja.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Zwrot.resources
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.GenerateResource.cache
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfoInputs.cache
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfo.cs
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.CoreCompileInputs.cache
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.dll
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.pdb
+D:\Junior\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.genruntimeconfig.cache
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.exe
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.deps.json
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.json
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.runtimeconfig.dev.json
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.dll
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\bin\Debug\netcoreapp3.1\Speed Up App.pdb
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Cennik.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Flota.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Form1.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.menu - kopiować.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Menu.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Pomoc.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Properties.Resources.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Raporty.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Rezerwacja.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed_Up_App.Zwrot.resources
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.dll
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.pdb
+C:\Users\Michał\Desktop\Speed Up App\Speed Up App\obj\Debug\netcoreapp3.1\Speed Up App.genruntimeconfig.cache

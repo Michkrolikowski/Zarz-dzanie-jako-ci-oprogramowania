@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhmWy+BfQKlS5xdQxvlQLP8FZKM829RpGfujLPBfKKa/Kavx1s+98M6tpUKprXmUt7VagfeEXiZQ63XDvMhuoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\Desktop\\Speed Up App\\Speed Up App\\Speed Up App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
